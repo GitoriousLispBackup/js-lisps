@@ -311,7 +311,7 @@
  ((name "CPSCM")
   (url "http://www.omnigia.com/scheme/cpscm/home/")
   (dialect scheme)
-  (build-deps "Rhino")
+  (build-deps "Chicken Scheme or SISC")
   (runtime-deps 116)
   (compiler #t)
   (interpreter #f)
