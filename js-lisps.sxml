@@ -126,7 +126,7 @@
   (runtime-deps 60)
   (compiler #t)
   (interpreter #t)
-  (interop #f)
+  (interop #t)
   (tco #f)
   (continuations #t)
   (macros #t)
