@@ -258,7 +258,7 @@
   (comment "Mostly R5RS compliant. The compiler uses the Cheney-on-the-MTA compilation strategy. Internet Explorer is not fully supported."))
 
  ((name "js-scheme")
-  (url "http://www.biwascheme.org/")
+  (url "http://code.google.com/p/js-scheme/")
   (dialect scheme)
   (build-deps)
   (runtime-deps 196 "includes Prototype")
