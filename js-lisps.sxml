@@ -246,7 +246,7 @@
   (build-deps "Chicken Scheme")
   (runtime-deps 84)
   (compiler #t)
-  (interpreter #t)
+  (interpreter #f)
   (interop #t)
   (tco #t)
   (continuations #t)
