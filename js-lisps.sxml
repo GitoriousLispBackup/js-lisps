@@ -348,7 +348,7 @@
   (build-deps "python" "node.js")
   (runtime-deps 64)
   (compiler #t)
-  (interpreter #f)
+  (interpreter #t)
   (interop #t)
   (tco #f)
   (continuations #f)
