@@ -332,7 +332,7 @@
   (runtime-deps 148)
   (compiler #f)
   (interpreter #t)
-  (interop #t)
+  (interop #f)
   (tco #t)
   (continuations #f)
   (macros #t)
