@@ -448,7 +448,7 @@
   (url "http://code.google.com/p/substandard-lisp/")
   (dialect standard-lisp)
   (build-deps)
-  (runtime-deps 100)
+  (runtime-deps 136)
   (compiler #f)
   (interpreter #t)
   (interop #t)
