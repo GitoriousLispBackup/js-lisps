@@ -252,7 +252,7 @@
   (continuations #t)
   (macros #t)
   (hygiene #t)
-  (debugging #f)
+  (debugging #t)
   (activity 2011)
   (license BSD)
   (comment "Mostly R5RS compliant. The compiler uses the Cheney-on-the-MTA compilation strategy. Internet Explorer is not fully supported."))
