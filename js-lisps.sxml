@@ -81,7 +81,7 @@
   (macros #t)
   (hygiene #f)
   (debugging #t)
-  (activity 2011)
+  (activity 2012)
   (license BSD)
   (comment "One of the more mature implementations. Implements namespaces, has an optional object system and some SLIME support."))
 
@@ -139,7 +139,7 @@
            " has some details."))
 
  ((name "lisp2js")
-  (url "http://www.jsancho.org/gacela/lisp2js/")
+  (url "http://gacelaproject.org/lisp2js/")
   (dialect common-lisp)
   (build-deps "Common Lisp")
   (runtime-deps)
@@ -153,7 +153,7 @@
   (debugging #t)
   (activity 2010)
   (license GPLv3)
-  (comment "No documentation, pretty bare bones."))
+  (comment "No documentation, pretty bare bones. Seems to have vanished from the web as of 2012. "))
 
  ((name "jsScheme")
   (url "http://www.bluishcoder.co.nz/jsscheme/")
@@ -338,7 +338,7 @@
   (macros #t)
   (hygiene #f)
   (debugging #t)
-  (activity 2011)
+  (activity 2012)
   (license BSD)
   (comment "Implements the original prefix notated S-expression Dylan minus multi-methods and multiple inheritance."))
 
@@ -406,7 +406,7 @@
   (macros #t)
   (hygiene #f)
   (debugging #t)
-  (activity 2011)
+  (activity 2012)
   (license EPL)
   (comment "Includes utility macros for generating HTML on the client side. Clojure's TCO work-around loop/recur is also supported."))
 
