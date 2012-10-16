@@ -498,7 +498,7 @@
   (comment "A Lisp syntax for JavaScript which allows inline mixing with JavaScript literals. It claims TCO but it's limited to the " (tt "loop") " form."))
 
  ((name "emuLisp")
-  (url "https://vortex.uio.no/brukere/jkleiser/picolisp/")
+  (url "http://folk.uio.no/jkleiser/pico/emuLisp/")
   (dialect pico-lisp)
   (build-deps)
   (runtime-deps 52)
@@ -510,7 +510,7 @@
   (macros #t)
   (hygiene #f)
   (debugging #f)
-  (activity 2010)
+  (activity 2011)
   (license unknown)
   (comment "Only a subset of " (a (@ (href "http://picolisp.com/")) "PicoLisp") " is implemented. Note that macros in PicoLisp are really fexprs."))
 
